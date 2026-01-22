@@ -28,14 +28,13 @@ Project ini dibuat sebagai **Project Akhir mata kuliah Web Technology 3**.
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-- HTML
 - CSS
 - JavaScript  
-*(Sesuai implementasi project pada repository ini)*
+- Library React JS
 
 ---
 
 ## 🚀 Cara Menjalankan Project
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone https://github.com/dethiacalista/WebTech3-WordleGame.git
