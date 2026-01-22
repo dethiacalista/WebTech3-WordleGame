@@ -6,7 +6,7 @@ Setiap tebakan akan diberikan petunjuk berupa warna pada huruf untuk membantu pe
 
 Project ini dibuat sebagai **Project Akhir mata kuliah Web Technology 3**.
 
-**## 👩‍💻 Identitas Pembuat**
+**👩‍💻 Identitas Pembuat**
 - Nama: Dethia Calista
 - NIM: 59220067
 - Mata Kuliah: Web Technology 3
