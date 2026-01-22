@@ -37,3 +37,8 @@ Project ini dibuat sebagai **Project Akhir mata kuliah Web Technology 3**.
 ### 1) Install dependencies
 ```bash
 npm install
+
+**## 👩‍💻 Identitas Pembuat**
+- Nama: Dethia Calista
+- NIM: 59220067
+- Mata Kuliah: Web Technology 3
